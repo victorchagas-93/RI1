@@ -1,32 +1,33 @@
-# Atv. RI1  
+# Atv. RI1
 
-## 📝 Descrição da Atividade  
+## 📝 Descrição
 
-Este projeto foi desenvolvido utilizando JavaScript para criar e comparar personagens do universo Marvel, especificamente os Vingadores e seu principal rival, Thanos.
+Projeto em JavaScript que cria personagens do universo Marvel (Vingadores e Thanos) e compara seus níveis de poder.
 
-A atividade trabalha conceitos fundamentais da linguagem, como:
+Foram utilizados:
 
-- Criação e manipulação de objetos  
-- Organização de dados em arrays  
-- Uso de funções dentro de objetos  
-- Estruturas de repetição (`forEach`)  
-- Ordenação de elementos com `sort()`  
-- Cálculo e comparação de atributos numéricos  
+- Objetos
+- Arrays
+- Estrutura de repetição (`forEach`)
+- Método `sort()` para ordenação
 
 ---
 
-## 🎯 Objetivo do Projeto  
+## 🎯 Objetivo
 
-O principal objetivo é calcular e comparar o **nível total de poder** dos personagens com base na soma de seus atributos.
+Calcular o **poder total** de cada personagem com a soma:
 
-Cada personagem possui as seguintes características:
+forca + velocidade + resistencia
 
-- Nome  
-- Codinome  
-- Arma principal  
-- Arma secundária  
-- Força  
-- Velocidade  
-- Resistência  
+Após o cálculo, os personagens são organizados em **ordem decrescente**, formando um ranking do mais forte para o mais fraco.
 
-O sistema calcula o atributo **poderTotal**, que é a soma de:
+---
+
+## 💻 Tecnologias
+
+- JavaScript
+- Execução via Navegador (Console) ou Node.js
+
+---
+
+Atividade desenvolvida para prática de manipulação de objetos e arrays em JavaScript.
